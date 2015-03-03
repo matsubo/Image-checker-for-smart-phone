@@ -1,10 +1,10 @@
-requirements
+Requirements
 ===
 
 - PHP5+
 - ImageMagick (convert command)
 
-setup
+Setup
 ===
 
 ```
@@ -19,7 +19,7 @@ setup
 % vi index.html # make links to the appropriate pages corresponding to the convert.sh
 ```
 
-usage
+Usage
 ===
 access `index.html` using smartphone or tablet device.
 
